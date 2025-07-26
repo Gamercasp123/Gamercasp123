@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gamercasp123
-- 👀 I’m interested in ... in hacking makeing new software 
+- 👀 I’m interested in ... in hacking and makeing new software 
 - 🌱 I’m currently learning ... c++
 - 💞️ I’m looking to collaborate on ... makeing a discord bot 
 - 📫 How to reach me ... my email: Gamer_csap123@proton.me
