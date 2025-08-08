@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Gamercasp123
-- 👀 I’m interested in ... in hacking and makeing new software 
-- 🌱 I’m currently learning ... c++
-- 💞️ I’m looking to collaborate on ... makeing a discord bot 
-- 📫 How to reach me ... my email: Gamer_csap123@proton.me
-- ⚡ Fun fact: ... i have hacked severs before 
+### 👋 Hi, I’m Gamercasp123
+
+- 🔧 I’m learning C++ and building projects in my spare time  
+- 🤖 I develop Discord bots, tools, and automation scripts and RATS  
+- 🔒 Cybersecurity enthusiast – always exploring systems and exploits  
+- 📬 Reach me at: Gamer_csap123@proton.me  
+- ⚡ Always improving. Always building.  
 
 <!---
 Gamercasp123/Gamercasp123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
