@@ -91,7 +91,82 @@
 
 <br>
 
-### 💬 Connect
+### 🚀 What I've Developed
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+#### 🤖 Gear v2
+**Discord Infrastructure Platform**
+
+Zero-downtime deployment system with advanced automation, real-time monitoring, and multi-server orchestration.
+
+`TypeScript` `Node.js` `Docker` `Redis`
+
+</td>
+<td align="center" width="33%">
+
+#### ⚡ AutoScale Bot
+**Smart Discord Bot Framework**
+
+Intelligent scaling system that adapts to server load with ML-powered moderation and custom command pipelines.
+
+`Python` `TensorFlow` `PostgreSQL`
+
+</td>
+<td align="center" width="33%">
+
+#### 🔧 DevOps Toolkit
+**Infrastructure Automation Suite**
+
+Complete CI/CD pipeline with container orchestration, automated testing, and infrastructure as code.
+
+`Go` `Kubernetes` `Terraform`
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+#### 🎮 Game Server Manager
+**Multi-Game Hosting Platform**
+
+Automated game server deployment and management with real-time analytics and player tracking.
+
+`Rust` `React` `MongoDB`
+
+</td>
+<td align="center" width="33%">
+
+#### 🌐 API Gateway
+**Microservices Router**
+
+High-performance API gateway with rate limiting, authentication, and request transformation.
+
+`Go` `Redis` `gRPC`
+
+</td>
+<td align="center" width="33%">
+
+#### 📊 Analytics Dashboard
+**Real-time Metrics Platform**
+
+Live monitoring dashboard with custom alerts, log aggregation, and performance insights.
+
+`Vue.js` `InfluxDB` `Grafana`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 💬 Connect With Me
 
 <p align="center">
   <a href="https://discord.com">
@@ -100,44 +175,11 @@
   <a href="https://github.com/Gamercasp123">
     <img src="https://img.shields.io/github/followers/Gamercasp123?label=Follow&style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=6366f1" />
   </a>
-  <a href="https://twitter.com/gamercasp123">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1b27" />
-  </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gamercasp123&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/stars/Gamercasp123?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=f472b6" />
-  <img src="https://img.shields.io/badge/Status-Building%20Gear%20v2-00ff00?style=for-the-badge&labelColor=1a1b27" />
-</p>
-
-### 💖 Support
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/gamercasp123">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=1a1b27" />
-  </a>
-  <a href="https://ko-fi.com/gamercasp123">
-    <img src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=1a1b27" />
-  </a>
-  <a href="https://github.com/sponsors/Gamercasp123">
-    <img src="https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=1a1b27" />
-  </a>
-</p>
-
-### 📫 Let's Collaborate
-
-<p align="center">
-  <i>Open to collaborating on innovative projects, particularly in Discord infrastructure, automation systems, and full-stack development.</i>
-</p>
-
-<p align="center">
-  <a href="mailto:contact@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
-  </a>
-  <a href="https://linkedin.com/in/gamercasp123">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
-  </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
