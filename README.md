@@ -54,15 +54,19 @@
 
 <div align="center">
 
-### 🎯 Focus Areas
+### 🎯 Philosophy
 
-```typescript
-const expertise = {
-  architecture: ["Microservices", "Serverless", "Event-Driven"],
-  devops: ["CI/CD", "Container Orchestration", "IaC"],
-  specialization: ["Discord Bots", "Real-time Systems", "Automation"]
-};
-```
+<div align="center">
+
+> **"Code is poetry written in logic, infrastructure is art built with precision."**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+scalable+systems+that+don't+break+at+3AM;Turning+caffeine+into+code+since+day+one;If+it+can+be+automated%2C+it+will+be+automated;Zero-downtime+deployments+or+bust" alt="Philosophy" />
+
+**⚡ Current Mission:** Revolutionizing Discord infrastructure with Gear v2  
+**🔥 Obsession:** Writing code that future-me won't hate  
+**💭 Motto:** Ship fast, break things, fix them faster
+
+</div>
 
 ### ⚡ Current Stats
 
@@ -75,15 +79,7 @@ const expertise = {
 
 <img src="https://github-profile-trophy.vercel.app/api/?username=Gamercasp123&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6" width="100%" />
 
-### 📈 Coding Activity
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gamercasp123&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&layout=compact" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gamercasp123&repo=gear-v2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" width="49%" />
-
-### 💡 Latest Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ### 🎨 Contribution Snake
 
@@ -97,10 +93,52 @@ const expertise = {
 
 ### 💬 Connect
 
-[![Discord](https://img.shields.io/badge/Discord-neonfracture-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![GitHub](https://img.shields.io/github/followers/Gamercasp123?label=Follow&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gamercasp123)
+<p align="center">
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-neonfracture-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1b27" />
+  </a>
+  <a href="https://github.com/Gamercasp123">
+    <img src="https://img.shields.io/github/followers/Gamercasp123?label=Follow&style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=6366f1" />
+  </a>
+  <a href="https://twitter.com/gamercasp123">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1b27" />
+  </a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Gamercasp123&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gamercasp123&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/stars/Gamercasp123?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=f472b6" />
+  <img src="https://img.shields.io/badge/Status-Building%20Gear%20v2-00ff00?style=for-the-badge&labelColor=1a1b27" />
+</p>
+
+### 💖 Support
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/gamercasp123">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=1a1b27" />
+  </a>
+  <a href="https://ko-fi.com/gamercasp123">
+    <img src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=1a1b27" />
+  </a>
+  <a href="https://github.com/sponsors/Gamercasp123">
+    <img src="https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=1a1b27" />
+  </a>
+</p>
+
+### 📫 Let's Collaborate
+
+<p align="center">
+  <i>Open to collaborating on innovative projects, particularly in Discord infrastructure, automation systems, and full-stack development.</i>
+</p>
+
+<p align="center">
+  <a href="mailto:contact@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
+  </a>
+  <a href="https://linkedin.com/in/gamercasp123">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
+  </a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
