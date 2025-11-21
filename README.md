@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=gamercasp123\_online...;system\_status::engaged;executing\_codebase;architecture\_optimized" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=gamercasp123\_online...;system\_status::engaged;executing\_codebase;discord\_infrastructure\_online" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -31,12 +31,12 @@ $ current\_objective
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   </p>
   
   <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -56,7 +56,7 @@ $ current\_objective
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gamercasp123&theme=darkhub&hide_border=true" width="95%" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gamercasp123&bg_color=0d1117&color=5865F2&line=00FFFF&point=FFFFFF&hide_border=true&title_color=00FFFF" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gamercasp123&bg_color=0d1117&color=5865F2&line=39ff14&point=FFFFFF&hide_border=true&title_color=00FFFF" width="100%" />
 
   <br>
 
