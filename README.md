@@ -64,6 +64,35 @@ const expertise = {
 };
 ```
 
+### ⚡ Current Stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gamercasp123&theme=tokyonight" width="100%" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gamercasp123&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gamercasp123&theme=tokyonight" />
+
+### 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/api/?username=Gamercasp123&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6" width="100%" />
+
+### 📈 Coding Activity
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gamercasp123&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&layout=compact" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gamercasp123&repo=gear-v2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" width="49%" />
+
+### 💡 Latest Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### 🎨 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gamercasp123/Gamercasp123/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gamercasp123/Gamercasp123/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gamercasp123/Gamercasp123/output/github-contribution-grid-snake.svg">
+</picture>
+
 <br>
 
 ### 💬 Connect
