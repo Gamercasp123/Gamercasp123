@@ -1,41 +1,52 @@
-# Hey, I'm Gamercasp123 👋
+<div align="center">
 
-Full-stack developer focused on building scalable infrastructure and automation systems. Currently working on **Gear v2** — a Discord-focused infrastructure project.
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Infrastructure+Specialist;Building+Gear+v2" alt="Typing SVG" />
 
-## What I'm Working On
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gamercasp123&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
-- 🚀 **Gear v2**: Zero-downtime deployment architecture
-- 🔧 Infrastructure automation and optimization
-- 🌐 Multi-language system expansion (50+ technologies)
+### 🚀 Currently Building
 
-## Tech Stack
+**Gear v2** — Zero-downtime Discord infrastructure with advanced automation
 
-**Languages**  
-JavaScript • TypeScript • Python • Go • Rust • C++ • Java • PHP • Ruby • C# • Kotlin • Swift • Lua
+</div>
 
-**Frontend**  
-React • Next.js • Vue.js • Angular • Svelte • Tailwind CSS • Bootstrap • Sass
+---
 
-**Backend & Infrastructure**  
-Node.js • Express • Deno • Docker • Kubernetes • AWS • Linux
+## 💻 Tech Arsenal
 
-**Databases**  
-MongoDB • PostgreSQL • MySQL • Redis • SQLite
+### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,cpp,java,php,ruby,cs,kotlin,swift,lua&perline=13" />
+</p>
 
-**Other**  
-Solidity • Shell Scripting • Assembly
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,bootstrap,sass,html,css&perline=10" />
+</p>
+
+### Backend & Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,deno,docker,kubernetes,aws,linux,nginx,redis&perline=9" />
+</p>
+
+### Databases & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis,git,vscode,solidity&perline=8" />
+</p>
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gamercasp123&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+## 📊 Performance Metrics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamercasp123&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gamercasp123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gamercasp123&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=f472b6&currStreakLabel=c9d1d9" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gamercasp123&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamercasp123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" />
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Gamercasp123&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gamercasp123&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&hide_border=true&title_color=58a6ff)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gamercasp123&custom_title=Contribution%20Graph&bg_color=0d1117&color=6366f1&line=f472b6&point=c9d1d9&area=true&hide_border=true&title_color=6366f1)
 
 </div>
 
@@ -43,7 +54,25 @@ Solidity • Shell Scripting • Assembly
 
 <div align="center">
 
-**Discord:** neonfracture  
-[![GitHub followers](https://img.shields.io/github/followers/Gamercasp123?style=flat-square&logo=github)](https://github.com/Gamercasp123)
+### 🎯 Focus Areas
+
+```typescript
+const expertise = {
+  architecture: ["Microservices", "Serverless", "Event-Driven"],
+  devops: ["CI/CD", "Container Orchestration", "IaC"],
+  specialization: ["Discord Bots", "Real-time Systems", "Automation"]
+};
+```
+
+<br>
+
+### 💬 Connect
+
+[![Discord](https://img.shields.io/badge/Discord-neonfracture-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![GitHub](https://img.shields.io/github/followers/Gamercasp123?label=Follow&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gamercasp123)
+
+<img src="https://komarev.com/ghpvc/?username=Gamercasp123&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
