@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=gamercasp123\_online...;system\_status::engaged;executing\_codebase;global\_architecture\_ready" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=gamercasp123\_online...;status::developing\_gear\_v2;discord\_infrastructure\_focus;optimization\_cycle\_active" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -89,7 +89,11 @@ $ current\_objective
   </p>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gamercasp123&theme=darkhub&hide_border=true" width="95%" />
-
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gamercasp123&theme=darkhub&hide_border=true&bg_color=00000000" alt="WakaTime Weekly Coding Activity" width="95%" />
+  </p>
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gamercasp123&bg_color=0d1117&color=5865F2&line=39ff14&point=FFFFFF&hide_border=true&title_color=00FFFF" width="100%" />
 
   <br>
@@ -101,7 +105,7 @@ $ current\_objective
   </p>
   
   <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/connect%20on%20discord-5865F2?style=social&logo=discord" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-neonfracture-5865F2?style=social&logo=discord" alt="Discord" />
   </a>
   <a href="https://github.com/Gamercasp123">
     <img src="https://img.shields.io/github/followers/Gamercasp123?style=social" alt="Followers" />
