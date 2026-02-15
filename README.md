@@ -150,7 +150,7 @@ Live monitoring dashboard with custom alerts, log aggregation, and performance i
 
 ---
 
-### 💬 Connect With Me
+### 💬 Connect With Me!
 
 <p align="center">
   <a href="https://discord.com">
