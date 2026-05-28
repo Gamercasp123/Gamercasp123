@@ -1,171 +1,27 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Infrastructure+Specialist;Building+Gear+v2" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gamercasp123&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" alt="Header Banner" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gamercasp123&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
-
-### 🚀 Currently Building
-
-**Gear v2** — Zero-downtime Discord infrastructure with advanced automation
-
-</div>
+## Systems Engineer | OS Developer
 
 ---
 
-## 💻 Tech Arsenal
-
-### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,cpp,java,php,ruby,cs,kotlin,swift,lua&perline=13" />
-</p>
-
-### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,bootstrap,sass,html,css&perline=10" />
-</p>
-
-### Backend & Infrastructure
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,deno,docker,kubernetes,aws,linux,nginx,redis&perline=9" />
-</p>
-
-### Databases & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis,git,vscode,solidity&perline=8" />
-</p>
+### 💻 Tech Arsenal
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,go,rust,java,kotlin,swift,lua,cs,docker,kubernetes,linux,git&perline=8" alt="My Skills" />
 
 ---
 
-<div align="center">
-
-## 📊 Performance Metrics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gamercasp123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gamercasp123&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=f472b6&currStreakLabel=c9d1d9" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamercasp123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" />
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Gamercasp123&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gamercasp123&custom_title=Contribution%20Graph&bg_color=0d1117&color=6366f1&line=f472b6&point=c9d1d9&area=true&hide_border=true&title_color=6366f1)
-
-</div>
+### 🚀 LucidOS
+Custom Android-based operating system focused on framework architecture and performance.
 
 ---
 
-<div align="center">
-
-### 🎯 Philosophy
-
-<div align="center">
-
-> **"Code is poetry written in logic, infrastructure is art built with precision."**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+scalable+systems+that+don't+break+at+3AM;Turning+caffeine+into+code+since+day+one;If+it+can+be+automated%2C+it+will+be+automated;Zero-downtime+deployments+or+bust" alt="Philosophy" />
-
-**⚡ Current Mission:** Revolutionizing Discord infrastructure with Gear v2  
-**🔥 Obsession:** Writing code that future-me won't hate  
-**💭 Motto:** Ship fast, break things, fix them faster
-
-</div>
-
-### ⚡ Current Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gamercasp123&theme=tokyonight" width="100%" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gamercasp123&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gamercasp123&theme=tokyonight" />
-
-### 🚀 What I've Developed
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-#### 🤖 Gear v2
-**Discord Infrastructure Platform**
-
-Zero-downtime deployment system with advanced automation, real-time monitoring, and multi-server orchestration.
-
-`TypeScript` `Node.js` `Docker` `Redis`
-
-</td>
-<td align="center" width="33%">
-
-#### ⚡ AutoScale Bot
-**Smart Discord Bot Framework**
-
-Intelligent scaling system that adapts to server load with ML-powered moderation and custom command pipelines.
-
-`Python` `TensorFlow` `PostgreSQL`
-
-</td>
-<td align="center" width="33%">
-
-#### 🔧 DevOps Toolkit
-**Infrastructure Automation Suite**
-
-Complete CI/CD pipeline with container orchestration, automated testing, and infrastructure as code.
-
-`Go` `Kubernetes` `Terraform`
-
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-#### 🎮 Game Server Manager
-**Multi-Game Hosting Platform**
-
-Automated game server deployment and management with real-time analytics and player tracking.
-
-`Rust` `React` `MongoDB`
-
-</td>
-<td align="center" width="33%">
-
-#### 🌐 API Gateway
-**Microservices Router**
-
-High-performance API gateway with rate limiting, authentication, and request transformation.
-
-`Go` `Redis` `gRPC`
-
-</td>
-<td align="center" width="33%">
-
-#### 📊 Analytics Dashboard
-**Real-time Metrics Platform**
-
-Live monitoring dashboard with custom alerts, log aggregation, and performance insights.
-
-`Vue.js` `InfluxDB` `Grafana`
-
-</td>
-</tr>
-</table>
-
-</div>
+### 📊 Metrics
+<img src="https://github-readme-stats.vercel.app/api?username=Gamercasp123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamercasp123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" width="48%" />
 
 ---
 
-### 💬 Connect With Me!
-
-<p align="center">
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-neonfracture-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1b27" />
-  </a>
-  <a href="https://github.com/Gamercasp123">
-    <img src="https://img.shields.io/github/followers/Gamercasp123?label=Follow&style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=6366f1" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gamercasp123&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/stars/Gamercasp123?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=f472b6" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+### 💬 Contact
+[GitHub Profile](https://github.com/Gamercasp123) &nbsp;|&nbsp; [LucidOS Repository](https://github.com/Gamercasp123/LucidOS)
 
 </div>
